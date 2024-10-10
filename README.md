@@ -1,2 +1,3 @@
-# internet-programciligi-test
-Çok önemli açıklamalar
+# INTERNET PROGRAMCILIĞI
+
+Dersimiz kapsamında Laravel ile ilgili örnekler geliştireceğiz.
